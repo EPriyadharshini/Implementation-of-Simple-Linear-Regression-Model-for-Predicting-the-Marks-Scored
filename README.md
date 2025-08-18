@@ -75,23 +75,28 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![Screenshot 2024-09-03 112333](https://github.com/user-attachments/assets/6b7f5280-e181-4b93-9aa9-b441980aac07)
+## head
+<img width="695" height="236" alt="image" src="https://github.com/user-attachments/assets/6c1a76cc-38c5-403c-98b9-a8c913d3333d" />
+## tail
+<img width="325" height="235" alt="image" src="https://github.com/user-attachments/assets/926962bf-2d42-417e-9ce4-d61af7f8be54" />
 
-![Screenshot 2024-09-03 112351](https://github.com/user-attachments/assets/ea7576e7-a9ba-4ea8-a646-5747a569a5f5)
+## X
+<img width="609" height="505" alt="image" src="https://github.com/user-attachments/assets/0be626bd-d8c6-433e-9cca-f06e1456397a" />
 
-![Screenshot 2024-09-03 112357](https://github.com/user-attachments/assets/678ded29-d3cc-4d88-bde9-44013d0d7953)
+## Y
 
-![Screenshot 2024-09-03 112404](https://github.com/user-attachments/assets/c34259d0-f47b-41d9-8a00-6c8382dee1a8)
+<img width="622" height="122" alt="image" src="https://github.com/user-attachments/assets/5e9ff43b-452f-45c2-8e1c-c0bf314fe691" />
+## Y_pred
+<img width="620" height="69" alt="image" src="https://github.com/user-attachments/assets/9b4482ea-bd80-4d66-a485-936e45cbc30f" />
 
-![Screenshot 2024-09-03 112410](https://github.com/user-attachments/assets/f4514d6f-fc40-4642-aa85-59ac6da5c0fc)
+## Y_test
+<img width="495" height="32" alt="image" src="https://github.com/user-attachments/assets/19a1c809-9479-4001-8ca1-62940fec0f2c" />
 
-![Screenshot 2024-09-03 112415](https://github.com/user-attachments/assets/103b9be8-6cac-487d-b7bb-eaf0f11ae229)
-
-![Screenshot 2024-09-03 112424](https://github.com/user-attachments/assets/2e30d1e2-fe2a-4534-991c-a7b19b2c5352)
-
-![Screenshot 2024-09-03 112433](https://github.com/user-attachments/assets/aacdcd54-53c4-4d71-8a5e-627ee4f2da5f)
-
-![Screenshot 2024-09-03 112440](https://github.com/user-attachments/assets/91480ad6-9f46-4374-aea7-2de492d02c4e)
+## training set
+<img width="827" height="712" alt="image" src="https://github.com/user-attachments/assets/5331e0d5-6ede-462d-98e8-fe048482cbce" />
+#testing set
+<img width="838" height="700" alt="image" src="https://github.com/user-attachments/assets/c1d0e3bc-8ad9-409c-aef0-1fe1f0cdfd2b" />
+<img width="898" height="426" alt="image" src="https://github.com/user-attachments/assets/4660b122-2a4a-4084-b9e0-b9ef69f7f91d" />
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
