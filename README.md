@@ -86,16 +86,29 @@ print("RMSE = ",rmse)
 ## Y
 
 <img width="622" height="122" alt="image" src="https://github.com/user-attachments/assets/5e9ff43b-452f-45c2-8e1c-c0bf314fe691" />
+
+
 ## Y_pred
+
+
 <img width="620" height="69" alt="image" src="https://github.com/user-attachments/assets/9b4482ea-bd80-4d66-a485-936e45cbc30f" />
 
+
+
 ## Y_test
+
+
 <img width="495" height="32" alt="image" src="https://github.com/user-attachments/assets/19a1c809-9479-4001-8ca1-62940fec0f2c" />
 
 ## training set
 <img width="827" height="712" alt="image" src="https://github.com/user-attachments/assets/5331e0d5-6ede-462d-98e8-fe048482cbce" />
-#testing set
+
+## testing set
+
+
 <img width="838" height="700" alt="image" src="https://github.com/user-attachments/assets/c1d0e3bc-8ad9-409c-aef0-1fe1f0cdfd2b" />
+
+
 <img width="898" height="426" alt="image" src="https://github.com/user-attachments/assets/4660b122-2a4a-4084-b9e0-b9ef69f7f91d" />
 
 ## Result:
